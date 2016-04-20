@@ -12,6 +12,11 @@
     "passenger": "server.js"
   },
   "author": "david@banham.id.au",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Prismatik/passenger.git"
+  },
+
   "license": "ISC",
   "dependencies": {
     "chokidar": "^1.4.3",
