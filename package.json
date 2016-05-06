@@ -1,6 +1,6 @@
 {
   "name": "pairing-passenger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "server.js",
   "scripts": {
@@ -16,7 +16,6 @@
     "type": "git",
     "url": "git@github.com:Prismatik/passenger.git"
   },
-
   "license": "ISC",
   "dependencies": {
     "chokidar": "^1.4.3",
